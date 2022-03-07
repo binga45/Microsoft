@@ -8,7 +8,7 @@ public class PalindromicSubString {
 
     /**
      * This method uses dynamic programming paradigm to get the LongestPalindromicSubString
-     * @param n - Value of the length of inputString
+     * @param n Value of the length of inputString
      * @param inputString The inputString on which the longest palindromic substring needs to be computed
      * @return "the string which is the best palindrome"
      * @throws IllegalArgumentException
